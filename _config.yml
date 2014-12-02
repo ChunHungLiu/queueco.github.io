@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               queueco.
+tagline:             'digital currency trading'
+description:         'Queueco is trading digital currencies using the latest statistical and computational tools. We have expertise in market connectivity, market data, execution etc. Follow us <a href="https://twitter.com/queueco" target="_blank">@queueco</a>.' 
+url:                 http://queueco.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Jonathan Heusser
+  url:               https://twitter.com/jonathanheusser
+  email:             jonathan@queueco.com
+
+# Custom vars
+version:             1.0.0
