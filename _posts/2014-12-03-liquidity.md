@@ -58,11 +58,11 @@ The following figure takes a closer look at individual market orders that mornin
 </center>
 </p>
 
-Up until 8:45 it is all quiet when one sell trade of slightly more than 200 BTC is executed. From that point on volatility increases a lot and the price drops. If the trader of the first trade wanted to sell another 200 BTC 10 minutes later he would have received a price 2-3% worse than the initial one.
+Up until 8:45 it is all quiet when one sell trade of slightly more than 200 BTC is executed. From that point on volatility increases and the price drops. If the trader of the first trade wanted to sell another 200 BTC 10 minutes later he would have received a price 2-3% worse than the initial one.
 
-## Possible solutions
+## Conclusion
 
-There's no immediate solution to the illiquidity and volatility of bitcoin markets apart from a gradual maturing of the ecosystem. However, we believe that market makers like ourselves can play a crucial role in speeding up this process.
+There's no immediate cure to the illiquidity and volatility of bitcoin markets apart from a gradual maturing of the ecosystem. However, we believe that market makers like ourselves can contribute to making this process as smooth and swift as possible.
 
 
 
