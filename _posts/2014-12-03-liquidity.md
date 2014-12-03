@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What really is liquidity?
+comments: True
 ---
 
 Bitcoin is known for its high volatility. It is seen as one of the major hinderances which prevents more widespread adoption as medium of exchange. Consequently, a large number of industry professionals are working on solutions which aim to reduce the impact of volatility. 
@@ -35,9 +36,9 @@ To the interested reader, sites like [bitcoinwisdom.com](http://bitcoinwisdom.co
 </center>
 </p>
 
-In the figure above we show a snapshot reporting spread, depth, and cummulative volume on the book taken from [cryptowat.ch](http://www.cryptowat.ch). 
+In the figure above we show a snapshot reporting spread, depth, and cumulative volume on the book taken from [cryptowat.ch](http://www.cryptowat.ch). 
 
-We could go into a lot of detail what measures are useful, perhaps we will do that in a future post if there is interest. For now we only want to demonstrate the usual lack of liquidity by most measures on Bitcoin exchanges and its effect on the price during a particularly volatile period in November. We show evidence that individual traders are able to move the market with a small number of large trades due to a lack of depth and resilience requirements.
+We could go into a lot of detail what measures are useful, perhaps we will do that in a future post if there is interest. For now we only want to demonstrate the usual lack of liquidity by most measures on bitcoin exchanges and its effect on the price during a particularly volatile period in December. We show evidence that individual traders are able to move the market with a small number of large trades due to a lack of depth and resilience requirements.
 
 ## Lack of liquidity
 
@@ -61,8 +62,7 @@ Up until 8:45 it is all quiet when one sell trade of slightly more than 200 BTC 
 
 ## Possible solutions
 
-There's no immediate solution to the illiquidity and volatility of Bitcoin markets apart from a gradual maturing of the ecosystem. However, we believe that market makers like ourseves can play a crucial role in speeding up this process.
-
+There's no immediate solution to the illiquidity and volatility of bitcoin markets apart from a gradual maturing of the ecosystem. However, we believe that market makers like ourselves can play a crucial role in speeding up this process.
 
 
 
