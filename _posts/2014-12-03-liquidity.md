@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What really is liquidity?
+title: What is liquidity really?
 comments: True
 ---
 
-Bitcoin is known for its high volatility. It is seen as one of the major hinderances which prevents more widespread adoption as medium of exchange. Consequently, a large number of industry professionals are working on solutions which aim to reduce the impact of volatility. 
+Bitcoin is known for its high volatility, which is seen as one of the largest hurdles on the way to widespread adoption. Consequently, a large number of industry professionals are working on solutions which aim to reduce the impact of volatility. 
 
 For example, some wallet providers like Coinapult or Bitreserve allow to "lock in" your bitcoin, similar to hedging with forward contracts, in order to guarantee a stable US dollar equivalent value. This can be an effective way for consumers to alleviate the effects of price volatility. However, why is bitcoin so volatile in the first place?
 
@@ -26,10 +26,10 @@ Here, quality of executions refers (but is not limited) to
 
 - *Resilience*: the ability to buy or sell a certain amount with minimal influence on the current price. A resilient orderbook is one which reverts back to its previous state after a large market order traded through a couple of levels of the orderbook. 
 
-For each of the properties above there is a number of measures one can calculate to assess that particular aspect of liqudity. Some look at orderbook snapshots in time, others look at the evolution of the orderbook over time. Even without measuring the observables above some qualitative conclusions are intuitive: An order book for instance with a million dollar on the first level of bid and ask but with only two trades a day is clearly not liquid. 
+For each of the properties above there is a number of measures one can calculate to assess that particular aspect of liqudity. Some look at orderbook snapshots in time, others look at the evolution of the orderbook over time. Even without measuring the observables above some qualitative conclusions are intuitive: An order book for instance with a thousand bitcoin on the first level of bid and ask but with only two trades a day is clearly not liquid. 
 
-Real liquidity requires a reasonable combination of the above characteristics. Note that it might be possible to define liquidity as shown above without even mentioning traded volume -- an often evoked measure of liquidity across the industry. 
-To the interested reader, sites like [bitcoinwisdom.com](http://bitcoinwisdom.com) or [cryptowat.ch](http://www.cryptowat.ch) give a good overview over the state of the order books on various bitcoin exchanges. 
+Real liquidity requires a reasonable combination of the above characteristics. Note that it might be possible to define liquidity as shown above without even mentioning traded volume - an often evoked measure of liquidity across the industry. 
+To the interested reader, sites like [bitcoinwisdom.com](http://bitcoinwisdom.com) or [cryptowat.ch](http://www.cryptowat.ch) give a good overview of the state of the order books on various bitcoin exchanges. 
 
 <p><center>
 <img src="/public/ob_static.png" alt="Static Orderbook" align="center" width="30%"></img>
@@ -42,7 +42,7 @@ We could go into a lot of detail what measures are useful, perhaps we will do th
 
 ## Lack of liquidity
 
-The next graph shows the BTCCNY price on OKCoin China in the first three days of December overlaid with the cumulative order flow (cumulative sum of all market order transactionss in BTC) on the right hand side vertical axis. Both time series appear highly correlated. This is indicative of rather illiquid markets with mostly profit-seeking players, where large aligned order flows drive the price and vice versa.
+The next graph shows the BTCCNY price on OKCoin China in the first three days of December overlaid with the cumulative order flow (cumulative sum of all market order transactions in BTC) on the right hand side vertical axis. Both time series appear highly correlated. This is indicative of rather illiquid markets with mostly profit-seeking players, where large aligned order flows drive the price and vice versa.
 
 <p><center>
 <img src="/public/priceflow.png" alt="Price and flow" align="center" width="80%"></img>
