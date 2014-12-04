@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is driving bitcoin price volatility?
+comments: True
 ---
 <div class="message">
 This year has seen plenty of speculation on the driving forces behind bitcoin's depreciation. One often cited suspect is increased spending which leads to downside pressure as merchants have to sell off their acquired bitcoin holdings. Here, we outline the interplay between market makers and takers in bitcoin price formation and show how an imbalance can lead to high price volatility.
@@ -8,7 +9,7 @@ This year has seen plenty of speculation on the driving forces behind bitcoin's 
 
 ## Maker-taker interaction and bitcoin price formation
 
-The volatility of bitcoin prices is often mentioned as one of the obstacles slowing down public adoption. A contributing factor to high volatility is low liquidity. Although <a href="#">liquidity</a> is a diverse concept as discussed in our previous post, it is characterised by the ability of the market to absorb large buy or sell orders.
+The volatility of bitcoin prices is often mentioned as one of the obstacles slowing down public adoption. A contributing factor to high volatility is low liquidity. Although <a href="http://blog.queueco.com/2014/12/03/liquidity/">liquidity</a> is a diverse concept as discussed in our previous post, it is characterised by the ability of the market to absorb large buy or sell orders.
 
 The price formation of bitcoin mainly happens on exchanges which bring together buyers and sellers of digital currencies. Traders on exchanges can be categorised into market makers and takers: market makers quote limit orders and signal their willingness to buy or sell bitcoin at two distinct prices, the bid and ask price. They then collect the price difference, or spread, as compensation for not being in control of when their orders are executed. Effectively they take the risk of buying (selling) bitcoin just before the price drops (rises).
 
@@ -25,7 +26,7 @@ Taking liquidity by executing market orders is favourable if there are structura
 The first figure below shows the average hourly traded BTC volume of Bitstamp (BTCUSD, UTC timezone, data obtained from [bitcoincharts.com](https://bitcoincharts.com)). Since Bitstamp is one of the most prominent European exchanges that facilitates exchange of bitcoin and USD, the traded volume is largest in the overlapping US morning / European afternoon sessions, while dropping off significantly overnight. 
 
 <p><center>
-<img src="/public/hourofday.png" alt="HourlyVolume" align="center" width="70%"></img>
+<img src="/public/hourofday.png" alt="HourlyVolume" align="center" width="80%"></img>
 </center>
 </p>
 
@@ -40,6 +41,6 @@ Figure 2 displays back-tested cumulative percentage returns of our market taker 
 We believe that increased market making activity can reduce volatility by absorbing the price impact of large orders.
 
 <p><center>
-<img src="/public/returnsB.psd" alt="StrategyReturns" align="center" width="60%"></img>
+<img src="/public/returns.png" alt="StrategyReturns" align="center" width="80%"></img>
 </center>
 </p>
