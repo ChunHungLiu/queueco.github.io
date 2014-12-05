@@ -30,7 +30,7 @@ The first figure below shows the average hourly traded BTC volume of Bitstamp (B
 </center>
 </p>
 
-Interestingly, we observe heavy activity early in the European morning that does not fit into the general night-day rhythm of activity. Around 7-10am UTC time, consistently increased trading volumes were recorded over the past 5 month period.
+Interestingly, we observe heavy activity early in the European morning that does not fit into the general night-day rhythm of activity. Around 6-9am UTC time, consistently increased trading volumes were recorded over the past 5 month period.
 
 Obviously there is a plethora of possible explanations of this phenomenon, however, we suggest the possibility that it might be due to regular merchant activity. 
 
@@ -38,7 +38,7 @@ To illustrate how market takers can benefit from such a periodic pattern we deve
 
 Figure 2 displays back-tested cumulative percentage returns of our market taker strategy, which shows strong performance over the previous five months. The fact that the model works can be attributed to the lasting price impact of large market orders and benefits from price volatility.
 
-We believe that increased market making activity can reduce volatility by absorbing the price impact of large orders.
+We believe that increased market making activity can reduce volatility by absorbing the price impact of large orders, thus removing the observed inefficiencies and stabilising the ecosystem.
 
 <p><center>
 <img src="/public/returns.png" alt="StrategyReturns" align="center" width="80%"></img>
